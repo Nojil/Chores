@@ -1,0 +1,26 @@
+.sidemenu {
+    text-align: center;
+}
+
+.side-menu-col {
+    flex: 0 0 5.33% !important;
+}
+
+.sidemenu ul {
+    list-style-type: none;
+}
+
+.sidemenu-logo-container {
+    background: rgb(34,193,195);
+}
+
+.sidemenu-logo {
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.sidemenu-menu li {
+    border-bottom: 1px solid #d1d1d1;
+    padding: 15px 0 15px 0;
+
+}

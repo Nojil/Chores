@@ -1,0 +1,7 @@
+.profilePicture {
+    width: 55px;
+    height: 55px;
+    border-radius: 50%;
+    background-image: url('../assets/images/profile.jpg');
+    background-size: 55px 55px;
+}
